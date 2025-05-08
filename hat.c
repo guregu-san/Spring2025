@@ -10,7 +10,7 @@ Output Parameters:
     - 1 is returned if the program is not given 3 CLAs.
     - 2 is returned if the program is not given a valid option.
     - 3 is returned if the program is not given a valid number of lines to print.
-    - 4 is returned if the program can't open the file.poop
+    - 4 is returned if the program can't open the file.
 Date: 7/5/25
 *******************************************************************************/
 #include <stdio.h> //Library needed for input and output.
